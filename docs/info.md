@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Two circuits first circuit goes through various gates to power a LED, circuit 2 does the same but with less gates. 
 
 ## How to test
 
-Explain how to use your project
+Use switches 1,2, and 3 to control circuit 1 and switches 6,7, and 8 to control circuit 2. 
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Two LEDs. 
